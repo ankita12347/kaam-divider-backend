@@ -1,0 +1,4 @@
+insert into users (id, name, password)
+values(1, 'little', 'jishnu');
+
+select * from USERS;
